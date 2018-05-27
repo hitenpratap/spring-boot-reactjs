@@ -1,0 +1,5 @@
+include 'backend'
+
+rootProject.name = 'portal2'
+include 'frontend'
+
